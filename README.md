@@ -1,2 +1,1 @@
 # boke_images
-..
