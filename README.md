@@ -1,5 +1,3 @@
 # boke_images
 .
 .
-.
-.
