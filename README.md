@@ -1,3 +1,4 @@
+```
 -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 sudo apt-get install virtualenv
@@ -21,3 +22,4 @@ pip install scrapy-redis -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install pymysql -i https://pypi.tuna.tsinghua.edu.cn/simple 
 pip install pymongo -i https://pypi.tuna.tsinghua.edu.cn/simple 
 pip install redis -i https://pypi.tuna.tsinghua.edu.cn/simple 
+```
