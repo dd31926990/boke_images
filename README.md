@@ -23,4 +23,3 @@ pip install pymysql -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install pymongo -i https://pypi.tuna.tsinghua.edu.cn/simple 
 pip install redis -i https://pypi.tuna.tsinghua.edu.cn/simple 
 ```
-0
